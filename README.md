@@ -14,6 +14,7 @@ El proyecto está dirigido a:
 - Administradores de universidades del Perú
   - Nuestro segundo segmento objetivo son los administradores de universidades del Perú. Más específicamente, Instituciones académicas preocupadas por el acompañamiento, retención y bienestar emocional de sus estudiantes, especialmente durante los primeros ciclos.
 
+ 
 ## Características Principales
 - Diseño responsivo
 - Estructura modular (HTML, CSS, JS)
