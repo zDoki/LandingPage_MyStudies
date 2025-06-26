@@ -6,6 +6,7 @@ Este proyecto es una Landing Page desarrollada con HTML, CSS y JavaScript para n
 - Valdizán Grijalba, Daniel - U202311566
 - Klar Franco Chávez Huaytalla - U202312631
 - Bravo Castillo Rojo Miguel Alejandro - U20221f624
+  
 
 ## Segmentos Objetivo
 El proyecto está dirigido a:
