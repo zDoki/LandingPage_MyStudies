@@ -1,6 +1,6 @@
 # My Studies
 
-Este proyecto es una Landing Page moderna desarrollada con HTML, CSS y JavaScript.
+Este proyecto es una Landing Page desarrollada con HTML, CSS y JavaScript para nuestro producto, titulado "My Studies".
 
 ## Autores
 - Valdizán Grijalba, Daniel - U202311566
